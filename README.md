@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou TulengiPaulo! 👋
 
-<!--
-**TulengiPaulo/TulengiPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e tenho experiência em diversas áreas de desenvolvimento de software e eletrônica.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Sou um entusiasta de tecnologia com habilidades em várias linguagens de programação e frameworks.
+- 🔋 Tenho experiência em eletrônica e programação com Arduino.
+- 🎓 Sempre estou buscando aprender mais e me manter atualizado com as últimas tendências tecnológicas.
+
+## Stack de Tecnologias
+
+Aqui estão algumas das tecnologias que domino:
+
+- **Linguagens de Programação:**
+  - Python
+  - PHP
+  - C
+  - Java
+  - HTML
+  - JavaScript
+
+- **Programação com Arduino:**
+  - Desenvolvimento de projetos eletrônicos
+  - Integração de hardware e software
+
+## Conquistas
+
+- 🏆 Desenvolvi diversos projetos pessoais e acadêmicos que me permitiram aprimorar minhas habilidades técnicas.
+- 🚀 Contribuí para projetos open source, ajudando a comunidade de desenvolvedores.
+- 📚 Participei de workshops e cursos para expandir meus conhecimentos em tecnologia e programação.
+
+## Contato
+
+- **Email:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- **LinkedIn:** [SeuPerfilLinkedIn](URL do seu perfil no LinkedIn)
+- **Twitter:** [@seuTwitter](URL do seu perfil no Twitter)
+
+---
+
+Obrigado por visitar meu perfil! Se você gostou dos meus projetos ou deseja colaborar, sinta-se à vontade para entrar em contato. 🚀
